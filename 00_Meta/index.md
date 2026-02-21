@@ -24,6 +24,9 @@ Global map of vault content.
 - [[01_Identity/voice]] — Communication style
 - [[01_Identity/owner]] — Human owner reference
 
+### Inbox (Episode Capture)
+- `02_Inbox/` — Episode notes captured during work, processed during ingestion
+
 ### Memory (Episodic)
 - `03_Memory/interactions/` — Interaction logs
 - `03_Memory/reflections/` — Post-interaction analysis
@@ -41,6 +44,7 @@ Global map of vault content.
 - `06_Knowledge/procedures/` — Step-by-step workflows
 
 ### Templates
+- [[09_Templates/template-episode]]
 - [[09_Templates/template-interaction-log]]
 - [[09_Templates/template-reflection]]
 - [[09_Templates/template-lesson]]

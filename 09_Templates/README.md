@@ -15,6 +15,7 @@ Reusable note templates for structured content creation.
 
 | Template | Use Case | Destination |
 |----------|----------|-------------|
+| [[template-episode]] | Lightweight episode capture during work | `02_Inbox/` |
 | [[template-interaction-log]] | Record of a significant interaction | `03_Memory/interactions/` |
 | [[template-reflection]] | Post-interaction analysis | `03_Memory/reflections/` |
 | [[template-lesson]] | Extracted, reusable learning | `03_Memory/lessons/` |
